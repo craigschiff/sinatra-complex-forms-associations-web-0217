@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'activerecord', :require => 'active_record'
 gem 'database_cleaner', git: 'https://github.com/bmabey/database_cleaner.git'
-gem 'pry'
+gem 'pry-byebug'
 gem 'pry-nav'
 gem 'rack-test'
 gem 'rake'
